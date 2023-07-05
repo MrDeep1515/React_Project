@@ -1,0 +1,90 @@
+#maintable,
+td,
+th {
+  border: 5px solid hotpink;
+}
+
+#maintable {
+  display: inline-block;
+  margin-left: 400px;
+  height: auto;
+  background-color: lightgoldenrodyellow;
+  border-style: dotted;
+}
+
+tr:hover {
+  background: lightblue;
+  padding: 7px;
+  border: 2px solid green;
+}
+
+td:hover {
+  color: white;
+  background: black;
+  border: 3px solid red;
+}
+
+th {
+  color: blue;
+  background-color: lightcoral;
+}
+
+#navbar {
+  background-color: hotpink;
+  padding: 10px;
+  list-style-type: none;
+}
+
+.navbar-list Link {
+  text-decoration: none;
+}
+
+.navbar-list {
+  display: inline-block;
+  margin-left: 30px;
+  border-bottom: 2px solid black;
+  border-radius: 22px;
+  border-top: 2px solid blue;
+  padding: 10px;
+}
+
+.navbar-list:hover {
+  color: green;
+  font-weight: 700;
+}
+
+input {
+  width: 100%;
+}
+
+.head7 {
+  text-align: center;
+  background-color: darkcyan;
+}
+
+#form7 {
+  border: 2px solid green;
+  width: 30%;
+  height: auto;
+  background-color: aqua;
+  margin-left: 450px;
+  padding: 10px;
+}
+
+span {
+  color: red;
+}
+
+h2 {
+  text-align: center;
+}
+
+#mainform1 {
+  border: 2ps solid greenyellow;
+  width: 20%;
+}
+
+#mainform2 {
+  border: 2ps solid greenyellow;
+  width: 20%;
+}
